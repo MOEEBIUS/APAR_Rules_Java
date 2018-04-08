@@ -1,6 +1,12 @@
 # APAR_Rules_Java
 
+A Java implementation of the AHU Performance Assessment Rules (APAR)
 
+
+## References
+
+ 1. Schein, J., Bushby, S. T., Castro, N. S., & House, J. M. (2006). A rule-based fault detection method for air handling units. _Energy and buildings_, _38_(12), 1485-1492.
+ 2. Schein, J. (2006). Results from field testing of embedded air handling unit and variable air volume box fault detection tools. *NISTIR 7365*.
 
 ## Dependencies
 
