@@ -1,6 +1,6 @@
 # APAR_Rules_Java
 
-A Java implementation of the AHU Performance Assessment Rules (APAR)
+A Java implementation of the AHU Performance Assessment Rules (APAR) and Fault Diagnostics
 
 
 ## References
