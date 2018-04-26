@@ -15,7 +15,8 @@ Requires Apache Commons Math 3.6.1
 
 ## License
 
-This code is released by Technische Hochschule Nuernberg Georg Simon Ohm under the Apache License, Version 2.0
+This code is released by Technische Hochschule Nuernberg Georg Simon Ohm under the Apache License, Version 2.0. You may reference to this repository through this DOI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1214992.svg)](https://doi.org/10.5281/zenodo.1214992)
+
 
 
 ## Acknowledgments
